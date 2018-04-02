@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-chat",
+  "version": "1.0.0",
+  "description": "nodejs-chat using socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "chat"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
