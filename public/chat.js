@@ -1,5 +1,5 @@
 //make connection
-var socket = io.connect("http://localhost:4000");
+var socket = io.connect("https://chatmate101.herokuapp.com/");
 
 //Query DOM
 
